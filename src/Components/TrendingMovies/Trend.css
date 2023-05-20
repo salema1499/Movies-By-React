@@ -1,0 +1,42 @@
+.showslid{
+    overflow: auto;
+    width: 100% !important;
+    background: url('../../Assets//sild4.jpg') repeat-x center;
+    border-radius: 20px;
+  
+   
+}
+.container .titletrending{
+    text-align: left;
+    padding: 25px 0px;
+}
+.sild .divimg{
+    width: 100%;
+    height: auto;
+    padding: 0px 15px;
+    margin: 6px 5px;
+}
+.sild .divimg .imgmov{
+    width: 180px;
+    height: 241px;
+    margin: -6px;
+    border-radius: 20px;
+}
+.onemovi{
+   
+    height: 50%;
+    display: flex;
+    text-align: center;
+   
+}
+.sild .titlepost{
+    margin-top: 25px;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color:#073359 ;
+}
+.sild .titlepost:hover{
+    color: #4b63bb;
+   
+}

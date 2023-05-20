@@ -1,0 +1,78 @@
+.header{
+    background: url('../../Assets/headerbg2.jpg') no-repeat center;
+    background-size: cover;
+   text-align: left;
+  
+}
+ .header .one{
+    background-color: rgba(86, 49, 116, 0.5);
+}
+.header h2{
+    padding-top: 150px;
+    text-align: left;
+    margin: 0px 60px;
+    font-size: 50px;
+    font-weight: bold;
+   
+}
+
+.mymain{
+    background-color:#022441 ;
+    color: white;
+  
+
+}
+
+.header p{
+    padding-top: 20px;
+    text-align: left;
+    margin: 0px 60px;
+    padding-bottom: 100px;
+    font-size: 35px;
+    font-weight:600;
+}
+
+.inputsearch{
+    padding: 10px 10px;
+    width: 100%;
+    border-radius: 20px;
+
+   margin-left: 60px;
+}
+.buttomsearch{
+    /* position: absolute;
+    right: 15px; */
+    padding: 10px 10px;
+    margin: auto;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #0bbed1;
+    color:white;
+    font-size: 18px;
+    border: 1px solid #0bbed1;
+}
+.myform{
+    padding:0px 0px 60px 0px;
+    width: 100%;
+    max-width: 100%;
+
+     
+  
+}
+
+@media only screen and (max-width: 598px) {
+    .inputsearch {
+    margin-right: 60px;
+    }
+    
+}
+
+/* @media only screen and (max-width: 577) {
+    .myform ,.buttomsearch ,.inputsearch {
+     
+     width: 20px !important;
+    }
+    
+} */
